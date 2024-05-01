@@ -31,5 +31,7 @@ Estudante de Analise e desenvolvimento de sistemas atualmente sou tecnico em inf
 
 ## 🔗 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-sousa-986892183?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnglD97ToT%2F2F0Hrjp4B6ug%3D%3D)
+
 
 
