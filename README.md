@@ -31,3 +31,5 @@ Estudante de Analise e desenvolvimento de sistemas atualmente sou tecnico em inf
 
 ## 🔗 Connect with me
 
+
+
