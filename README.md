@@ -29,9 +29,11 @@ Estudante de Analise e desenvolvimento de sistemas atualmente sou tecnico em inf
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
 
-## 🔗 Connect with me
+## 🔗 Connect with me 🔗
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-sousa-986892183?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BnglD97ToT%2F2F0Hrjp4B6ug%3D%3D)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hidan404)
 
 
 
