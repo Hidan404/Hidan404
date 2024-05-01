@@ -20,7 +20,9 @@ I'm from Pará, Brazil. I am currently studying systems analysis and development
 
 ## 🔗 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=2B0921&color=white)](https://github.com/BynnZ8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=2B0921&color=white)](https://www.linkedin.com/in/sabrina-souza-b74137238/)
-[![frontendmentor](https://img.shields.io/badge/frontendmentor-0077B5?style=for-the-badge&logo=frontendmentor&logoColor=2B0921&color=white)](https://www.frontendmentor.io/profile/BynnZ8)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
