@@ -14,7 +14,7 @@ Estudante de Analise e desenvolvimento de sistemas atualmente sou tecnico em inf
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hidan404&bg_color=000&border_color=20A3DC&title_color=E94D4F&text_color=FFF)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hidan404)](https://github.com/Hidan404/Hidan404/edit/main/README.md)
+
 
 ## 🤘 Habilidades
 
