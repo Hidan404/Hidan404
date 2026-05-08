@@ -17,7 +17,7 @@
 > currently_learning: Backend Development & APIs
 ```
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
 🖥️ Técnico em Informática em transição para Desenvolvimento Backend  
 🚀 Construindo APIs e projetos para evoluir como desenvolvedor  
 🐧 Usuário Linux e entusiasta de tecnologia   
