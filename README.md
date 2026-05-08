@@ -9,10 +9,10 @@ Estudante de Analise e desenvolvimento de sistemas atualmente sou tecnico em inf
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Hidan404&theme=modern-lilac&background=000&dates=FFF)](https://git.io/streak-stats)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hidan404&theme=transparent&bg_color=000&border_color=F13232&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hidan404&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hidan404&bg_color=000&border_color=20A3DC&title_color=E94D4F&text_color=FFF)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hidan404&theme=tokyonight)
 
 
 
